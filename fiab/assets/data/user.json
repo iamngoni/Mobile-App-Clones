@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "message": "USER FOUND.",
+    "data": {
+        "id": "5f5364b33e93514352bbe73b",
+        "email": "el.nick.ngonie@gmail.com",
+        "address": "",
+        "suburb": "",
+        "city": "",
+        "hash": "",
+        "dob": "1998-10-13T00:00:00.000Z",
+        "lastUpdatedBy": "",
+        "storesVisited": [
+            "freshinabox.co.zw",
+            "freshaccount.co.zw"
+        ],
+        "lastVisitedStore": "freshinabox.co.zw",
+        "number_of_orders": null,
+        "code": "",
+        "status": "INACTIVE",
+        "available": false,
+        "name": "Ngonidzashe Mangudya",
+        "type": "user",
+        "mobileNumber": "+263777213388",
+        "addresses": [],
+        "special_requirements": ""
+    }
+}

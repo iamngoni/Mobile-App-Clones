@@ -1,0 +1,156 @@
+{
+    "success": true,
+    "message": "CATEGORIES FOUND.",
+    "data": [
+        {
+            "id": "5f009524a005f2222209452e",
+            "description": "",
+            "image_url": "",
+            "rank": 1,
+            "available": true,
+            "name": "Boxes",
+            "store": "freshinabox.co.zw",
+            "__v": 0
+        },
+        {
+            "id": "5f0095d0a005f22222094531",
+            "description": "",
+            "image_url": "",
+            "rank": 2,
+            "available": true,
+            "name": "Addons",
+            "store": "freshinabox.co.zw",
+            "__v": 0
+        },
+        {
+            "id": "5f5f579ed918642f216bf828",
+            "description": "",
+            "image_url": "",
+            "rank": 3,
+            "available": true,
+            "name": "Build Your Own Box",
+            "store": "freshinabox.co.zw",
+            "__v": 0
+        },
+        {
+            "id": "5f59fcf8d918642f216bf813",
+            "description": "",
+            "image_url": "",
+            "rank": 4,
+            "available": true,
+            "name": "Braai paDen",
+            "store": "freshinabox.co.zw",
+            "__v": 0
+        },
+        {
+            "id": "5f0095bba005f22222094530",
+            "description": "",
+            "image_url": "",
+            "rank": 5,
+            "available": true,
+            "name": "Butcher Box",
+            "store": "freshinabox.co.zw",
+            "__v": 0
+        },
+        {
+            "id": "5f60a8f7d918642f216bf84d",
+            "description": "",
+            "image_url": "",
+            "rank": 6,
+            "available": true,
+            "name": "Cheese & Dairy",
+            "store": "freshinabox.co.zw",
+            "__v": 0
+        },
+        {
+            "id": "5f00959ba005f2222209452f",
+            "description": "",
+            "image_url": "",
+            "rank": 8,
+            "available": true,
+            "name": "Hampers",
+            "store": "freshinabox.co.zw",
+            "__v": 0
+        },
+        {
+            "id": "5d290edb7a358b176b20e491",
+            "description": "",
+            "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567430097/Categories/freshstore_0018_groceries_hyxcmg.png",
+            "name": "Groceries",
+            "__v": 0,
+            "rank": 9,
+            "available": true,
+            "store": "freshinabox.co.zw"
+        },
+        {
+            "id": "5f5786d6d918642f216bf80d",
+            "description": "",
+            "image_url": "",
+            "rank": 10,
+            "available": true,
+            "name": "The new Normal",
+            "store": "freshinabox.co.zw",
+            "__v": 0
+        },
+        {
+            "id": "5f16bfcefb9e3725688150ca",
+            "description": "",
+            "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1595326405/Categories/freshstore_baked-goods_sr6sze.jpg",
+            "rank": 11,
+            "available": true,
+            "name": "Baked Goods",
+            "store": "freshinabox.co.zw",
+            "__v": 0
+        },
+        {
+            "id": "5d290edd7a358b176b20e496",
+            "description": "",
+            "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567429830/Categories/freshstore_0000_baby_fbnngt.png",
+            "name": "Diapers",
+            "__v": 0,
+            "rank": 12,
+            "available": true,
+            "store": "freshinabox.co.zw"
+        },
+        {
+            "id": "5d2c53b333d2893296d113e5",
+            "description": "",
+            "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567429965/Categories/freshstore_0010_pets_asltms.png",
+            "name": "Pets",
+            "__v": 0,
+            "rank": 13,
+            "available": true,
+            "store": "freshinabox.co.zw"
+        },
+        {
+            "id": "5d290edd7a358b176b20e4a3",
+            "description": "",
+            "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567430083/Categories/freshstore_0017_laundry_y1xoog.png",
+            "name": "Laundry",
+            "__v": 0,
+            "rank": 14,
+            "available": true,
+            "store": "freshinabox.co.zw"
+        },
+        {
+            "id": "5d290eda7a358b176b20e48e",
+            "description": "",
+            "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567429856/Categories/freshstore_0002_persona-hygiene_xrvhvc.png",
+            "name": "Health & Beauty",
+            "__v": 0,
+            "rank": 16,
+            "available": true,
+            "store": "freshinabox.co.zw"
+        },
+        {
+            "id": "5d290edd7a358b176b20e4a0",
+            "description": "",
+            "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567429947/Categories/freshstore_0008_beverages_wj3kdd.png",
+            "name": "Beverages",
+            "__v": 0,
+            "rank": 19,
+            "available": true,
+            "store": "freshinabox.co.zw"
+        }
+    ]
+}

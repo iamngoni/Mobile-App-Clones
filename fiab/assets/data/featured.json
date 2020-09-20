@@ -1,0 +1,334 @@
+{
+  "success": true,
+  "message": "FEATURED PRODUCTS FOUND.",
+  "data": {
+      "products": [
+          {
+              "id": "5d59bb5f3813291cd7a8872f",
+              "extra": "",
+              "brand": "Nestle",
+              "size": "500g",
+              "last_edited_by": "5c3bd8241048411dc40a6b8e",
+              "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1594801377/Nestle-Hot-Chocolate_cdf0tb.jpg",
+              "video_url": "",
+              "description": "",
+              "featured": true,
+              "currencies": [
+                  "USD",
+                  "ZW"
+              ],
+              "barcode": "6001068379200",
+              "tags": [
+                  "Kids",
+                  "breakfast",
+                  "chocolate"
+              ],
+              "name": "Nestle Hot Chocolate",
+              "price": 753.5,
+              "usd_price": 6.85,
+              "created_by": "admin@freshinabox.co.zw",
+              "available": true,
+              "currency_restricted": false,
+              "type": "box",
+              "product_type": {
+                  "id": "box",
+                  "name": "Box"
+              },
+              "__v": 3,
+              "freshNow": true,
+              "store": "freshinabox.co.zw",
+              "affected_by_rate": true,
+              "discount": 0,
+              "prices": {
+                  "USD": 6.85,
+                  "ZWL": 753.5,
+                  "ZW": 753.5
+              },
+              "categories": [
+                  {
+                      "id": "5d290edb7a358b176b20e491",
+                      "description": "",
+                      "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567430097/Categories/freshstore_0018_groceries_hyxcmg.png",
+                      "name": "Groceries",
+                      "__v": 0,
+                      "rank": 9,
+                      "available": true,
+                      "store": "freshinabox.co.zw"
+                  }
+              ],
+              "category": {
+                  "id": "5d290edb7a358b176b20e491",
+                  "description": "",
+                  "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567430097/Categories/freshstore_0018_groceries_hyxcmg.png",
+                  "name": "Groceries",
+                  "__v": 0,
+                  "rank": 9,
+                  "available": true,
+                  "store": "freshinabox.co.zw"
+              }
+          },
+          {
+              "id": "5d59c492886e721cd649f6cd",
+              "extra": "",
+              "brand": "Twinsaver",
+              "size": "9S",
+              "last_edited_by": "5c3bd8241048411dc40a6b8e",
+              "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1564309703/FIAB%20RETAIL/3074_-_TWINSAVER_LUXURY_TISSUES_AUTUMN_SUNSET_2-PLY_m6kfji.jpg",
+              "video_url": "",
+              "description": "",
+              "featured": true,
+              "currencies": [
+                  "USD",
+                  "ZW"
+              ],
+              "barcode": "6001070113243",
+              "tags": [
+                  "tissue",
+                  "babaysoft",
+                  "baby soft"
+              ],
+              "name": "Twinsaver Luxury Tissues 2-ply 9s",
+              "price": 654.5,
+              "usd_price": 5.95,
+              "created_by": "admin@freshinabox.co.zw",
+              "available": true,
+              "currency_restricted": false,
+              "type": "box",
+              "product_type": {
+                  "id": "box",
+                  "name": "Box"
+              },
+              "__v": 1,
+              "freshNow": false,
+              "store": "freshinabox.co.zw",
+              "affected_by_rate": true,
+              "discount": 0,
+              "prices": {
+                  "USD": 5.95,
+                  "ZWL": 654.5,
+                  "ZW": 654.5
+              },
+              "categories": [
+                  {
+                      "id": "5d290edb7a358b176b20e491",
+                      "description": "",
+                      "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567430097/Categories/freshstore_0018_groceries_hyxcmg.png",
+                      "name": "Groceries",
+                      "__v": 0,
+                      "rank": 9,
+                      "available": true,
+                      "store": "freshinabox.co.zw"
+                  }
+              ],
+              "category": {
+                  "id": "5d290edb7a358b176b20e491",
+                  "description": "",
+                  "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567430097/Categories/freshstore_0018_groceries_hyxcmg.png",
+                  "name": "Groceries",
+                  "__v": 0,
+                  "rank": 9,
+                  "available": true,
+                  "store": "freshinabox.co.zw"
+              }
+          },
+          {
+              "id": "5dc439d1c36a2142ac303267",
+              "extra": "Big Breakfast Add-On",
+              "brand": "Fresh In A Box",
+              "size": "",
+              "last_edited_by": "5c3bd8241048411dc40a6b8e",
+              "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1596221044/bba_posn2k.jpg",
+              "video_url": "",
+              "description": "2 X 1L UHT Milk/ Low Fat | 1 X Crate of Eggs | 3 Loaves | 2 Baked Beans Cans.",
+              "featured": true,
+              "currencies": [
+                  "USD",
+                  "ZW"
+              ],
+              "barcode": "",
+              "tags": [
+                  "eggs",
+                  "milk",
+                  "bread",
+                  "breakfast"
+              ],
+              "name": "Big Breakfast Add-on",
+              "price": 1320,
+              "usd_price": 12,
+              "type": "addon",
+              "product_type": {
+                  "id": "addon",
+                  "name": "Add-On"
+              },
+              "created_by": "admin@freshinabox.co.zw",
+              "available": true,
+              "currency_restricted": false,
+              "__v": 1,
+              "freshNow": true,
+              "store": "freshinabox.co.zw",
+              "affected_by_rate": true,
+              "discount": 0,
+              "prices": {
+                  "USD": 12,
+                  "ZWL": 1320,
+                  "ZW": 1320
+              },
+              "categories": [
+                  {
+                      "id": "5f0095d0a005f22222094531",
+                      "description": "",
+                      "image_url": "",
+                      "rank": 2,
+                      "available": true,
+                      "name": "Addons",
+                      "store": "freshinabox.co.zw",
+                      "__v": 0
+                  }
+              ],
+              "category": {
+                  "id": "5f0095d0a005f22222094531",
+                  "description": "",
+                  "image_url": "",
+                  "rank": 2,
+                  "available": true,
+                  "name": "Addons",
+                  "store": "freshinabox.co.zw",
+                  "__v": 0
+              }
+          },
+          {
+              "id": "5e95d1ee0739f10415b4d163",
+              "extra": "",
+              "brand": "Water Only",
+              "size": "5000L",
+              "last_edited_by": "5c3bd8241048411dc40a6b8e",
+              "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1586876792/5000L-fresh-water_zdfdkj.jpg",
+              "video_url": "",
+              "description": "Water only. Must be delivered all at once into a suitable tank that can take full amount. ",
+              "featured": true,
+              "currencies": [
+                  "USD",
+                  "ZW"
+              ],
+              "barcode": "009988776655",
+              "tags": [
+                  "water",
+                  "bulk water"
+              ],
+              "name": "5000l Water Delivery",
+              "price": 5500,
+              "usd_price": 50,
+              "created_by": "admin@freshinabox.co.zw",
+              "available": true,
+              "freshNow": false,
+              "currency_restricted": false,
+              "type": "addon",
+              "product_type": {
+                  "id": "addon",
+                  "name": "Add-On"
+              },
+              "__v": 1,
+              "store": "freshinabox.co.zw",
+              "affected_by_rate": true,
+              "discount": 0,
+              "prices": {
+                  "USD": 50,
+                  "ZWL": 5500,
+                  "ZW": 5500
+              },
+              "categories": [
+                  {
+                      "id": "5d290edc7a358b176b20e492",
+                      "description": "",
+                      "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567430007/Categories/freshstore_0012_fresh_ljnm6g.png",
+                      "name": "Bulk Deliveries",
+                      "__v": 0,
+                      "rank": 15,
+                      "available": false,
+                      "store": "freshinabox.co.zw"
+                  }
+              ],
+              "category": {
+                  "id": "5d290edc7a358b176b20e492",
+                  "description": "",
+                  "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1567430007/Categories/freshstore_0012_fresh_ljnm6g.png",
+                  "name": "Bulk Deliveries",
+                  "__v": 0,
+                  "rank": 15,
+                  "available": false,
+                  "store": "freshinabox.co.zw"
+              }
+          },
+          {
+              "id": "5eb92911823e6c56d0595b9f",
+              "extra": "Members",
+              "brand": "",
+              "size": "",
+              "last_edited_by": "5c3bd8241048411dc40a6b8e",
+              "image_url": "https://res.cloudinary.com/fresh-ideas/image/upload/v1589192150/burger_pcnsqf.jpg",
+              "video_url": "",
+              "description": "<p>Perfect in Bacon and Egg rolls</p>",
+              "featured": true,
+              "currencies": [
+                  "USD",
+                  "ZW"
+              ],
+              "barcode": "",
+              "tags": [
+                  "bacons",
+                  "pork"
+              ],
+              "name": "Bacon Burgers**",
+              "price": 267.3,
+              "usd_price": 2.43,
+              "type": "addon",
+              "product_type": {
+                  "id": "addon",
+                  "name": "Add-On"
+              },
+              "created_by": "admin@freshinabox.co.zw",
+              "available": true,
+              "freshNow": true,
+              "currency_restricted": false,
+              "store": "freshinabox.co.zw",
+              "__v": 1,
+              "affected_by_rate": true,
+              "discount": 0,
+              "prices": {
+                  "USD": 2.43,
+                  "ZWL": 267.3,
+                  "ZW": 267.3
+              },
+              "categories": [
+                  {
+                      "id": "5f0095d0a005f22222094531",
+                      "description": "",
+                      "image_url": "",
+                      "rank": 2,
+                      "available": true,
+                      "name": "Addons",
+                      "store": "freshinabox.co.zw",
+                      "__v": 0
+                  }
+              ],
+              "category": {
+                  "id": "5f0095d0a005f22222094531",
+                  "description": "",
+                  "image_url": "",
+                  "rank": 2,
+                  "available": true,
+                  "name": "Addons",
+                  "store": "freshinabox.co.zw",
+                  "__v": 0
+              }
+          }
+      ],
+      "meta": {
+          "total": 5,
+          "page": 1,
+          "limit": 50,
+          "pages": 1,
+          "count": 5
+      }
+  }
+}
